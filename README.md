@@ -22,28 +22,7 @@ A desktop application built using *Python, **Tkinter, and **SQLite* to help smal
 - Pillow (for image support, if used)
 
 ---
-
-## 📂 Project Structure
-
-# ├── admin.py             
-# ├── background_image.jpg  
-# ├── customer.py          
-# ├── database.py          
-# ├── info.py            
-# ├── lan1.png              
-# ├── laundry.db            
-# ├── login.py              
-# ├── main.py               
-# ├── signup.py             
-# ├── README.md            
-
-
-
-
----
-
-
-
+        
 ## ⚙️ Requirements
 
 - Python 3.x
