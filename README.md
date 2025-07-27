@@ -24,36 +24,25 @@ A desktop application built using *Python, **Tkinter, and **SQLite* to help smal
 ---
 
 ## 📂 Project Structure
-"""
-Project Structure:
+# Project Structure:
+# ├── admin.py              # Admin-related functionalities
+# ├── background_image.jpg  # Background image for UI
+# ├── customer.py           # Customer operations
+# ├── database.py           # Database setup and queries
+# ├── info.py               # General info or about window
+# ├── lan1.png              # Additional image used in the UI
+# ├── laundry.db            # SQLite database file
+# ├── login.py              # User login module
+# ├── main.py               # Application entry point
+# ├── signup.py             # User registration module
+# ├── README.md             # Project documentation
 
-├── admin.py              # Admin-related functionalities
-├── background_image.jpg  # Background image for UI
-├── customer.py           # Customer operations
-├── database.py           # Database setup and queries
-├── info.py               # General info or about window
-├── lan1.png              # Additional image used in the UI
-├── laundry.db            # SQLite database file
-├── login.py              # User login module
-├── main.py               # Application entry point
-├── signup.py             # User registration module
-├── README.md             # Project documentation
-"""
 
 
 
 ---
 
-## 🚀 Features
 
-- User Sign Up & Login system
-- Admin panel to manage records
-- Customer interface to place and track laundry orders
-- SQLite-based database (`laundry.db`)
-- GUI using Python's `tkinter`
-  
-
----
 
 ## ⚙️ Requirements
 
